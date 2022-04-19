@@ -1,0 +1,14 @@
+img.full-width {
+    width: 100%;
+
+}
+body {
+background-color: #000000;
+}
+h1 { color: #c7c0b0; font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+.grid {
+  display: grid;
+  grid-template-columns: 1540px 1fr 1540px 1fr;
+  grid-template-rows: auto;
+}
